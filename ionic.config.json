@@ -1,0 +1,7 @@
+{
+  "name": "ionic-item-sliding-scroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
