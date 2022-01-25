@@ -7,6 +7,9 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  items = Array.prototype.map.call(Array(100), (val, index) => index);
+
+  constructor() { }
+
 
 }
